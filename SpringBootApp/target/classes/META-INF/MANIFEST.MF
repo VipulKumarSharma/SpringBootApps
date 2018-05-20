@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: Spring Boot API
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Vipul
+Built-By: tysonvks
 Implementation-Vendor-Id: app.springboot
-Build-Jdk: 1.8.0_162
+Build-Jdk: 1.8.0_172
 Implementation-URL: http://projects.spring.io/spring-boot/SpringBootAp
  p/
 Created-By: Maven Integration for Eclipse
